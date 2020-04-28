@@ -1,0 +1,22 @@
+.tables-row {
+  display: flex;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.table-left {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 40%;
+  margin-left: 5%;
+}
+.table-right {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 40%;
+    margin-right: 5%;
+}

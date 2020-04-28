@@ -1,0 +1,42 @@
+.header {
+  display: flex;
+  /* text-align: center; */
+  align-self: center;
+  width: 50%;
+}
+
+.input-section,
+.title {
+  display: flex;
+  flex-direction: column;
+}
+
+.header h1 {
+  margin: 1rem auto;
+}
+
+.text-input,
+.submit {
+  margin: 1rem auto;
+}
+
+input {
+  resize: none;
+  text-align: center;
+}
+::-webkit-input-placeholder {
+  text-align: center;
+}
+:-moz-placeholder {
+  text-align: center;
+}
+::-moz-placeholder {
+  text-align: center;
+}
+:-ms-input-placeholder {
+  text-align: center;
+}
+
+.submit button{
+    margin: 0 1rem;
+}
