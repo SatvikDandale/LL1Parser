@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## LL1 Parse Table
+LL1 Parser is a Non-Recursive Predictive Parser which is a Table Driven parser.
+This project uses `ReactJS` to implement the algorithm to generate the LL1 Parsing Table.
 
 ## Available Scripts
 
